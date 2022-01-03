@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/06-slider-app/static/css/main.e110d30a.css",
+    "main.js": "/06-slider-app/static/js/main.028adc49.js",
+    "index.html": "/06-slider-app/index.html",
+    "main.e110d30a.css.map": "/06-slider-app/static/css/main.e110d30a.css.map",
+    "main.028adc49.js.map": "/06-slider-app/static/js/main.028adc49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e110d30a.css",
+    "static/js/main.028adc49.js"
+  ]
+}
